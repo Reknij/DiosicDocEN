@@ -1,0 +1,14 @@
+# Generate by InitializeBbob build-in plugin.
+themes/
+dist/
+.deploy_git/
+plugins/
+BbobInitDone
+dist_dev/
+articles_dev/
+JSApi/
+Bbob.deps.json
+Bbob
+Bbob.exe
+*.exe
+*.dll

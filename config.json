@@ -1,0 +1,17 @@
+{
+  "theme": "documents",
+  "author": "Jinker",
+  "description": "Nothing description...",
+  "about": "Nothing about...",
+  "blogName": "Diosic documents",
+  "blogCountOneTime": 10,
+  "allLink": "false",
+  "recursion": true,
+  "domain": "https://reknij.github.io",
+  "baseUrl": "/DiosicDocEN/",
+  "previewPort": 3000,
+  "compress": true,
+  "useHashName": false,
+  "distributionPath": "./dist",
+  "pluginsDisable": []
+}
