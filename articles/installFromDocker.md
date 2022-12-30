@@ -22,7 +22,7 @@ services:
       - "/your/data/folder:/data"
       - "/your/library/folder:/library"
 ```
-Start it with docker-compose up -d.
+Start it with docker-compose up -d. Please ensure target data and library folder permission is same with you docker-compose.yml user.
 
 ## docker-cli
 Using docker command line tool:
