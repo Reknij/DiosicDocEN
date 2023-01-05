@@ -6,7 +6,7 @@ categories:
 ---
 # Install from docker
 ## docker-compose
-Using docker-compose.yml file with the following content:
+Using `docker-compose.yml` file with the following content:
 ```docker
 version: "3.9"
 services:
@@ -22,7 +22,7 @@ services:
       - "/your/data/folder:/data"
       - "/your/library/folder:/library"
 ```
-Start it with docker-compose up -d. Please ensure target data and library folder permission is same with you docker-compose.yml user.
+Start it with `docker-compose up -d`. Please ensure target data and library folder permission is same with you `docker-compose.yml` user.
 
 ## docker-cli
 Using docker command line tool:
